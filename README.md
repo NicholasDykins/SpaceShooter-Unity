@@ -13,7 +13,7 @@ Unity-based space shooter project
 - C#
 
 **Play the Game**
-On my google drive (https://drive.google.com/drive/folders/1EgkQy_3-gV8misLYwx9q8JPqtXc-468w?usp=drive_link)
+On my google drive [(https://drive.google.com/drive/folders/1EgkQy_3-gV8misLYwx9q8JPqtXc-468w?usp=drive_link)](https://drive.google.com/drive/folders/1EgkQy_3-gV8misLYwx9q8JPqtXc-468w?usp=drive_link)
 
 
 **Notes**
